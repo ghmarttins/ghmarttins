@@ -49,8 +49,8 @@ Me tornar um profissional de **DevSecOps**, atuando com automação, integraçã
 
 ## 📫 Contato
 
-* LinkedIn: [Meu LinkedIn](www.linkedin.com/in/martinshgustavo/)
-* Email: [Meu e-mail](gustavohmartins208@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/martinshgustavo/)
+* [E-mail](gustavohmartins208@gmail.com)
 
 ---
 
