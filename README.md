@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo (Guga)
+# 👋 Olá, eu sou o Gustavo 
 
 🎯 Estudante de Segurança Cibernética
 ⚙️ Focado em automação, DevOps e DevSecOps
